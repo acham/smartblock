@@ -26,3 +26,5 @@ https://doi.org/10.1109/IPDPSW.2017.149
 This work was funded by a grant from the US Department of Energy, Office of Science under the guidance of Lucy Nowell for the Data Management grant program.
 
 U.S. Department of Energy Office of Scientific and Technical Information: https://www.osti.gov/biblio/1378443-smartblock
+
+Mirror: https://github.com/gflofst/SmartBlock
